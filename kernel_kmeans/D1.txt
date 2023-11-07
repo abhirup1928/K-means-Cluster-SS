@@ -1,0 +1,7 @@
+#Medical
+
+Patient ID: 874392
+Date: October 6, 2023
+
+Chief Complaint: Persistent Headache
+Medical History: The patient reports a two-week history of persistent headaches, described as throbbing in nature, with occasional nausea. No history of head trauma or recent illnesses. The patient's family history reveals a first-degree relative with a history of migraines. Physical examination shows no neurological deficits. Further investigation with imaging studies and blood work is recommended to rule out potential underlying causes.

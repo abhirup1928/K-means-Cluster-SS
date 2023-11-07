@@ -1,0 +1,7 @@
+#Medical
+
+Patient ID: 335678
+Date: October 6, 2023
+
+Chief Complaint: Abdominal Pain
+Medical History: A 35-year-old female presents with severe abdominal pain localized to the right lower quadrant. The pain is associated with nausea and low-grade fever. Physical examination reveals tenderness and guarding. Given clinical suspicion for appendicitis, the patient is scheduled for an emergency appendectomy. Preoperative labs and imaging studies are underway.
